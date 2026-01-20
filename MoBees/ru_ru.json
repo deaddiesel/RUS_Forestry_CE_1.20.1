@@ -206,6 +206,7 @@
   "allele.forestry.flower_type.mobees.flower_type_rock_diamond": "Алмаз",
   "allele.forestry.flower_type.mobees.flower_type_rock_emerald": "Изумруд",
   "allele.forestry.flower_type.mobees.flower_type_readable": "Читабельное",
+  "allele.forestry.flower_type.mobees.flower_type_rock_certus_quartz": "Истинный кварц",
 
   "allele.forestry.bee_effect.mobees.bee_effect_cave_sight": "Пещерный вид",
   "allele.forestry.bee_effect.mobees.bee_effect_dark": "Темнота",
@@ -216,6 +217,7 @@
   "allele.forestry.bee_effect.mobees.bee_effect_cursed": "Проклятие",
   "allele.forestry.bee_effect.mobees.bee_effect_arcane": "Загадочность",
   "allele.forestry.bee_effect.mobees.bee_effect_librarian": "Библиотекарь",
+  "allele.forestry.bee_effect.mobees.bee_effect_withered": "Иссушение",
 
   "item.mobees.bee.modifier.speed_multiplier": "Производство",
   "item.mobees.bee.modifier.decay_multiplier": "Генетический распад",
